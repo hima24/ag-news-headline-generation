@@ -1,0 +1,13 @@
+transformers
+datasets
+evaluate
+sentencepiece
+rouge-score
+bert-score
+torch
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+accelerate
